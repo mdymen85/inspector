@@ -1,0 +1,3 @@
+application:
+  block-api:
+    enable: true
